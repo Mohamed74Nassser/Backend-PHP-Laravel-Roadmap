@@ -20,10 +20,10 @@ ___
 
 📹 [Bootstrap 5 in Arabic](https://www.youtube.com/watch?v=65EFKUpYk2A)
 
-</details>
-
 <summary>PHP Reference</summary>
 📖 [W3Schools](https://www.w3schools.com/php/default.asp)
+
+</details>
 
 # Starting Backend 
 <details>
