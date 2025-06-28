@@ -1,6 +1,6 @@
 # Backend-PHP-Laravel-Roadmap
 ___
-### Frontend Requirements Before Starting Backend
+## Frontend Requirements Before Starting Backend
 <details>
   <summary>HTML</summary>
 
@@ -22,7 +22,7 @@ ___
 
 </details>
 
-## Starting Backend 
+# Starting Backend 
 <details>
   <summary>PHP</summary>
 
@@ -33,8 +33,8 @@ ___
 
 ## PHP Reference 
 <details>
-  
-📖 [W3Schools] https://www.w3schools.com/php/default.asp
+
+📖 [W3Schools](https://www.w3schools.com/php/default.asp)
 
 </details>
 
