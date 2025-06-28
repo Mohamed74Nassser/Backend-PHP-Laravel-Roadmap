@@ -86,7 +86,7 @@ ___
 
 </details>
 
-#   - -  Next Step – Start Your Internship or Job Hunt Today - - 
+# Next Step – Start Your Internship or Job Hunt Today 
 
 <details>
   <summary>Extra and Advanced Projects</summary>
@@ -95,12 +95,13 @@ ___
 📹 [Project 2](https://www.youtube.com/playlist?list=PLftLUHfDSiZ6D4tQNAdBrhzrxlZC9jFfS)  
 📹 [Extra laravel - Ahmed Emam](https://www.youtube.com/playlist?list=PLCm7ZeRfGSP4NNEikwx3wUAskQHB3p-LK)
 
-📹 [Paid Courses - Mahmoud Anwar](https://www.udemy.com/user/engsahaly/) (دى مواضيع في لارافيل شرحه كويس ومنظم جدا لو قررت تشتري استنى لما ينزل خصم واشتري اللي تحتاجه ده في حالة انك ملقيتش مصدر مجاني كويس)
+📹 [Paid Courses - Mahmoud Anwar](https://www.udemy.com/user/engsahaly/) 
+(دى مواضيع في لارافيل شرحه كويس ومنظم جدا لو قررت تشتري استنى لما ينزل خصم واشتري اللي تحتاجه ده في حالة انك ملقيتش مصدر مجاني كويس)
 
  **Advanced laravel:**  
  - [Advanced laravel - Mohammed Safad](https://www.youtube.com/playlist?list=PL13Ag2mfco64zMLcFjPb5GVWCu-OAjTrx)
 
  **Keep this roadmap – it's your path to continuous growth**
- [Roadmap - خليها مرجع ليك واتعلم منها اكتر كل ما تبقى فاضي](https://github.com/PI-Space/Backend-Roadmap-2024/tree/main)
+ [Roadmap](https://github.com/PI-Space/Backend-Roadmap-2024/tree/main) (خليها مرجع ليك واتعلم منها اكتر كل ما تبقى فاضي)
 
 </details>
