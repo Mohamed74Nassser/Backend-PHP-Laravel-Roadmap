@@ -73,6 +73,7 @@ ___
 📹 [Course 1 - Blog](https://www.youtube.com/watch?v=Q4z6U23cTVc) (خد كل يوم ساعه وخلصه ف اسبوع) 
 
 📹 [Course 2 - Mora Soft](https://www.youtube.com/playlist?list=PLftLUHfDSiZ7pKXkpGCoZATm5rF6msj5A)  
+
 📚 **Paid Courses:**  
  - [Laravel for Beginners (Level 1) - Paid](https://www.udemy.com/course/laravel-for-absolute-beginners/?couponCode=ST16MT230625A)  
  - [Laravel for Beginners (Level 2) - Paid](https://www.udemy.com/course/laravel-for-absolute-beginners-level2/?couponCode=ST16MT230625A)
@@ -96,9 +97,8 @@ ___
 📹 [Project 2](https://www.youtube.com/playlist?list=PLftLUHfDSiZ6D4tQNAdBrhzrxlZC9jFfS)  
 📹 [Extra laravel - Ahmed Emam](https://www.youtube.com/playlist?list=PLCm7ZeRfGSP4NNEikwx3wUAskQHB3p-LK)
 
-📹 [Paid Courses - Mahmoud Anwar](https://www.udemy.com/user/engsahaly/) 
-
 (دى مواضيع في لارافيل شرحه كويس ومنظم جدا لو قررت تشتري استنى لما ينزل خصم واشتري اللي تحتاجه ده في حالة انك ملقيتش مصدر مجاني كويس)
+📹 [Paid Courses - Mahmoud Anwar](https://www.udemy.com/user/engsahaly/) 
 
  **Advanced laravel:**  
  - [Advanced laravel - Mohammed Safad](https://www.youtube.com/playlist?list=PL13Ag2mfco64zMLcFjPb5GVWCu-OAjTrx)
