@@ -73,6 +73,7 @@ ___
 📹 [Course 1 - Blog](https://www.youtube.com/watch?v=Q4z6U23cTVc) (خد كل يوم ساعه وخلصه ف اسبوع) 
 
 📹 [Course 2 - Mora Soft](https://www.youtube.com/playlist?list=PLftLUHfDSiZ7pKXkpGCoZATm5rF6msj5A)  
+📹 [Video For MVC Project](https://youtu.be/tNFoPXQf4IE?si=URSXDgtIkh6nIP4z) (طريقة تقسيم Dashboard Html الي Laravel Blade من الصفر)
 
 📚 **Paid Courses:**  
  - [Laravel for Beginners (Level 1) - Paid](https://www.udemy.com/course/laravel-for-absolute-beginners/?couponCode=ST16MT230625A)  
