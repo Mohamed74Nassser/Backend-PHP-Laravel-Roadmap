@@ -29,10 +29,7 @@ ___
 📹 [PHP Course - Part 1](https://www.youtube.com/playlist?list=PLe_UJpVeP8qBr0IotQa16V0TCLsf3db71)  
 📹 [PHP Course - Part 2](https://www.youtube.com/playlist?list=PLe_UJpVeP8qAJSTpDBKZa6CsqpSybJ2d3)  
 
-</details>
-
-## PHP Reference 
-<details>
+  <summary>PHP Reference</summary>
 
 📖 [W3Schools](https://www.w3schools.com/php/default.asp)
 
