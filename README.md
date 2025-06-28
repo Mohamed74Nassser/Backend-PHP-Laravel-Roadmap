@@ -98,6 +98,7 @@ ___
 📹 [Extra laravel - Ahmed Emam](https://www.youtube.com/playlist?list=PLCm7ZeRfGSP4NNEikwx3wUAskQHB3p-LK)
 
 📹 [Paid Courses - Mahmoud Anwar](https://www.udemy.com/user/engsahaly/) 
+
 (دى مواضيع في لارافيل شرحه كويس ومنظم جدا لو قررت تشتري استنى لما ينزل خصم واشتري اللي تحتاجه ده في حالة انك ملقيتش مصدر مجاني كويس)
 
  **Advanced laravel:**  
