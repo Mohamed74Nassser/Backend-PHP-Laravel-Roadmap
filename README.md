@@ -82,8 +82,9 @@ ___
 
 </details>
 
+#   - - - Internship - - - 
+
 <details>
-  - - - Internship - - - 
   <summary>Internship Practice & Advanced Playlists</summary>
 
 📹 [Internship Playlist 1](https://www.youtube.com/playlist?list=PLftLUHfDSiZ7-RAsH8NskS7AYofykW_WN)  
