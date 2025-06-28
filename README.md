@@ -25,7 +25,7 @@ ___
 <details>
   <summary>Reference</summary>
 
-📖 [W3Schools](https://www.w3schools.com/php/default.asp)
+📖 [W3Schools](https://www.w3schools.com/html/default.asp)
 
 </details>
 
