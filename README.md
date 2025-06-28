@@ -74,6 +74,7 @@ ___
 
 📹 [Course 2 - Mora Soft](https://www.youtube.com/playlist?list=PLftLUHfDSiZ7pKXkpGCoZATm5rF6msj5A)  
 📹 [Video For MVC Project](https://youtu.be/tNFoPXQf4IE?si=URSXDgtIkh6nIP4z) 
+
 (طريقة تقسيم Dashboard Html الي Laravel Blade من الصفر)
 
 📚 **Paid Courses:**  
