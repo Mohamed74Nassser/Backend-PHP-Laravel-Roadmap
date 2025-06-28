@@ -22,16 +22,15 @@ ___
 
 </details>
 
+<summary>PHP Reference</summary>
+📖 [W3Schools](https://www.w3schools.com/php/default.asp)
+
 # Starting Backend 
 <details>
   <summary>PHP</summary>
 
 📹 [PHP Course - Part 1](https://www.youtube.com/playlist?list=PLe_UJpVeP8qBr0IotQa16V0TCLsf3db71)  
 📹 [PHP Course - Part 2](https://www.youtube.com/playlist?list=PLe_UJpVeP8qAJSTpDBKZa6CsqpSybJ2d3)  
-
-  <summary>PHP Reference</summary>
-
-📖 [W3Schools](https://www.w3schools.com/php/default.asp)
 
 </details>
 
