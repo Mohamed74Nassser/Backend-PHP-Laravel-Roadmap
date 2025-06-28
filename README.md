@@ -23,8 +23,8 @@ ___
 </details>
 
 <details>
+  <summary>Reference</summary>
 
-<summary>Reference</summary>
 📖 [W3Schools](https://www.w3schools.com/php/default.asp)
 
 </details>
