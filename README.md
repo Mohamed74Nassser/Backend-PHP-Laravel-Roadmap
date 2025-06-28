@@ -26,9 +26,15 @@ ___
 <details>
   <summary>PHP</summary>
 
-📹 [PHP Full Course - Part 1](https://www.youtube.com/playlist?list=PLe_UJpVeP8qBr0IotQa16V0TCLsf3db71)  
-📹 [PHP Full Course - Part 2](https://www.youtube.com/playlist?list=PLe_UJpVeP8qAJSTpDBKZa6CsqpSybJ2d3)  
-📖 [PHP Reference - W3Schools](https://www.w3schools.com/php/default.asp)
+📹 [PHP Course - Part 1](https://www.youtube.com/playlist?list=PLe_UJpVeP8qBr0IotQa16V0TCLsf3db71)  
+📹 [PHP Course - Part 2](https://www.youtube.com/playlist?list=PLe_UJpVeP8qAJSTpDBKZa6CsqpSybJ2d3)  
+
+</details>
+
+## PHP Reference 
+<details>
+  
+📖 [W3Schools] https://www.w3schools.com/php/default.asp
 
 </details>
 
